@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayTenGPAProject\dayTenGPAProject\bin\Debug\dayTenGPAProject.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayTenGPAProject\dayTenGPAProject\bin\Debug\dayTenGPAProject.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayTenGPAProject\dayTenGPAProject\bin\Debug\dayTenGPAProject.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayTenGPAProject\dayTenGPAProject\obj\Debug\dayTenGPAProject.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayTenGPAProject\dayTenGPAProject\obj\Debug\dayTenGPAProject.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\dayTenGPAProject\dayTenGPAProject\obj\Debug\dayTenGPAProject.pdb
